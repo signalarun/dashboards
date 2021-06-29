@@ -1,0 +1,20 @@
+{
+  "name": "realtimedashboard",
+  "version": "1.0.0",
+  "description": "Real time dashboard using sockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodeman server.js"
+  },
+  "keywords": [
+    "dashboards",
+    "socket"
+  ],
+  "author": "Arun Gopi",
+  "license": "GPL V3",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
