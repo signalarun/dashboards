@@ -33,7 +33,7 @@ export class AppComponent implements OnInit {
             type: 'bar',
             label: 'Vaccination',
             data: [243, 156, 365, 30, 156],
-            backgroundColor: ["#8e5ea2", "#3e95cd","#3cba9f","#e8c3b9","#c45850"],
+            backgroundColor: ["#3e95cd", "#8e5ea2","#3cba9f","#e8c3b9","#c45850"],
             borderColor: 'rgba(255,0,255,0.4)'
           }
  
