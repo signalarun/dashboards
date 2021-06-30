@@ -57,7 +57,7 @@ new Chart(document.getElementById("bar-chart"), {
 });
 
 // Horizontal Bar chart
-new Chart(document.getElementById("bar-chart-horizontal"), {
+this.chart = new Chart(document.getElementById("bar-chart-horizontal"), {
     type: 'horizontalBar',
     data: {
       labels: ["China", "India", "United States", "Indonesia", "Pakistan"],
