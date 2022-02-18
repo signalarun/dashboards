@@ -12,3 +12,4 @@
    - [chartjs](https://www.chartjs.org/)
    - [vega-lite](https://vega.github.io/vega-lite/)
    - [dygraphs](https://dygraphs.com/)
+   - [Apache ECharts](https://echarts.apache.org/en/index.html)
